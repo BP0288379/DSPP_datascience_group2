@@ -15,3 +15,8 @@
 #URL link
 
 [URL name](https://www.markdownguide.org/cheat-sheet/)
+
+
+# Bring in the histogram 
+
+![Histogram](assets/images/time-series-analysis_img3.png)
